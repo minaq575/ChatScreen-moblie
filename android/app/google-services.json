@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "575694615691",
+    "project_id": "paparrocketchat",
+    "storage_bucket": "paparrocketchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575694615691:android:1a39078b51abdca257108e",
+        "android_client_info": {
+          "package_name": "com.example.week8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575694615691-m9hncces2c7lp6906e8p3pgur9uqirp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiix2HHob1O9k19CpZiIfMMLIz7CVz1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575694615691-m9hncces2c7lp6906e8p3pgur9uqirp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575694615691-f8bpvissp8p7vi198372blbj14hs0mq5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week8.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
